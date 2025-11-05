@@ -1,0 +1,19 @@
+
+bgm:èæ¯é³ä¹.mp3;
+changeBg:f8fc3f42e9ec8ce78484671b335dd035.jpeg;
+playEffect:11æ4æ¥ (1).MP3;
+playEffect:2.MP3;
+changeBg:3679969b54865a77044e1e44eafdd919.jpeg;
+changeFigure:2.png;
+changeFigure:remove.photos-removed-background (1).png;
+:早啊小江;
+:准备吃饭，吃完饭我们再出去看看;
+小江:.......;
+小江:要不，不找了吧;
+小江:我觉得....现在这样也挺不错的;
+:？;
+:为什么;
+小江:我.....不想找回记忆了;
+小江:我觉得这样就挺好的|我们现在这样就很好;
+小江:我就喜欢和你一起;
+choose:听小江的，不找了，这样好像也挺好:不找线.txt|不行，都已经开始了怎么可以停下:寻找线.txt;

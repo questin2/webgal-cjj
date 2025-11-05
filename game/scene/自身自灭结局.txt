@@ -1,0 +1,24 @@
+
+bgm:èæ¯é³ä¹.mp3;
+changeBg:ab157a62ad7842d9d1db54bf40b921e5.jpg;
+changeFigure:3d28a7b86fd666eb68d82655af30b745.png;
+:不行，我和你非亲非故的;
+:你爱去哪哪;
+:和我没关系;
+:（说完便转身回房）;
+:（关门）;
+playEffect:3.MP3;
+changeBg:42fbba87f830f633cb9db0a412d24133.jpg;
+陌生人:（茫然的看着关上的门）;
+setTextbox:hide;
+changeFigure:none;
+changeBg:none;
+intro:后面发生了什么你也不知道|毕竟你确实和他非亲非故|可他一个失忆了的人|能去干什么呢 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:不过你连自己都管不好|怎么管的了他呢|就是每次想到这种事|你总会想，要是当时答应把他留下会怎么样呢|不过世界就是这样|可能也始终是可能 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:睡觉吧|明天还要正常起床 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+unlockCg:f8fc3f42e9ec8ce78484671b335dd035.jpeg;
+changeBg:f8fc3f42e9ec8ce78484671b335dd035.jpeg -unlockname=又是平凡的一天;
+playEffect:4.MP3;
+:完成结局，又是平凡的一天 -notend;
+setTextbox:on;
+end;
